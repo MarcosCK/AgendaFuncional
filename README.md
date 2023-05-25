@@ -9,6 +9,7 @@
 * Visualizar a lista de compromissos ordenados por data e horário.
 
 <h3>Como usar</h3>
+
 * Na página inicial, você verá a lista de compromissos existentes.
 * Para adicionar um novo compromisso, clique no botão "Adicionar Compromisso" e preencha o formulário.
 * Para editar um compromisso, clique no botão "Editar" ao lado do compromisso desejado e faça as alterações necessárias.
