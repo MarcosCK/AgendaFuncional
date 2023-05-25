@@ -1,8 +1,10 @@
 
-<h1>Agenda de Compromissos</h1>
+<h1>Agenda de Compromissos</h1> 
+
 <p>Uma aplicação de agenda de compromissos desenvolvida utilizando HTML, CSS e JavaScript. Os dados são armazenados em formato JSON.</p>
 
 <h3>Funcionalidades</h3>
+
 * Adicionar compromissos com título, data, horário e descrição.
 * Editar compromissos existentes.
 * Excluir compromissos.
@@ -16,6 +18,7 @@
 * Para excluir um compromisso, clique no botão "Excluir" ao lado do compromisso.
 
 <h3> Estrutura de Arquivos </h3>
+
 * index.html: Página principal da aplicação.
 * styles.css: Arquivo CSS contendo estilos para a interface.
 * script.js: Arquivo JavaScript com a lógica da aplicação.
